@@ -37,5 +37,3 @@ connectDB().then(()=>{
     })                                                                                                                                                                                            
 })
 
-// aWsQjFowmbiTs3mz
-// mongodb+srv://surbhipahwa36_db_user:UqgDpL2YA14BU4RA@cluster0.dizexqd.mongodb.net/notes_db?appName=Cluster0
